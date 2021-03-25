@@ -15,8 +15,9 @@ Now, I'm work in projects of Junior company of my university. We team is respons
 
 ## Social medias:
 
-- My instagram: https://instagram.com/eduardofilipemelo
 - My LinkedIn: https://bit.ly/31wJb6d
+- My instagram: https://instagram.com/eduardofilipemelo
+
 
 <!--
 **eduardo1020/eduardo1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
