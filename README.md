@@ -6,8 +6,7 @@ My name's Eduardo Melo and I'm Front End Developer. I currently dedicate myself 
 
 Now, I'm work in projects of Junior company of my university. We team is responsible for develop websites and applications to clients free. This is amazing to get more experience and get more skills.
 
-## Learned :trophy:
-
+## Skills :brain:
 - :pushpin: I learned HTML5 | CSS3 | JavaScript | Bootstrap | UI Design
 
 ## Learning :books:
