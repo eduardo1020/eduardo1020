@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Edu and a Front End Developer. I currently dedicate myself to work to improve my skills in Web Development. I built static websites, web applications, exercises about Javascript  and challenges of Front End Mentor .
+I'm Edu Melo and a Front End Developer. I currently dedicate myself to work to improve my skills in Web Development. I built static websites, web applications, exercises about Javascript  and challenges of Front End Mentor .
 
 ## Works :man_technologist:
 
