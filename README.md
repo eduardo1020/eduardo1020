@@ -4,7 +4,7 @@ My name's Eduardo Melo and I'm Front End Developer. I currently dedicate myself 
 
 ## Works :man_technologist:
 
-Now, I'm work in projects of Junior company of my university. We team is responsible for develop websites and applications to clients free. This is amazing to get more experience and get more skills.
+Now, I'm work in projects of Junior company of my university. Our team is responsible for develop free websites and applications to clients. This is amazing to get more experience and skills.
 
 ## Skills :brain:
 - :pushpin: HTML5 | CSS3 | JavaScript | Bootstrap | UI Design
