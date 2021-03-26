@@ -19,7 +19,8 @@ Currently, I'm work in projects of Junior company of my university. Our team is 
 <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 My LinkedIn: https://bit.ly/31wJb6d
 
-<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+<br><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 My instagram: https://instagram.com/eduardofilipemelo
 
 
