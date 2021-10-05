@@ -4,15 +4,15 @@ I'm Eduardo Melo and a Front End Developer. I currently dedicate myself to work 
 
 ## Works :man_technologist:
 
-Currently, I'm work in projects of Junior company of my university. Our team is responsible for develop free websites and applications to clients. This is amazing to get more experience and skills.
+Currently, I'm intern in Alest consultoria. Our team is responsible for develop free websites and applications to clients. This is amazing to get more experience and skills.
 
 ## Skills :brain:
 
-- :pushpin: HTML5 | CSS3 | JavaScript | Bootstrap | UI Design
+- :pushpin: HTML5 | CSS3 | JavaScript ES6 | Bootstrap | UI Design | ReactJS | Firebase | MongoDB
 
 ## Learning :books:
 
-- 🌱 I’m currently learning ECMAScript (ES6) | React JS | Redux 
+- 🌱 I’m currently learning Context API | Google Cloud Platform | Monday.com | Python 
 
 ## Social medias:
 
