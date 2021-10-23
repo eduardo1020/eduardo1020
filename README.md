@@ -12,7 +12,7 @@ Currently, I'm intern in Alest consultoria. Our team is responsible for develop 
 
 ## Learning :books:
 
-- 🌱 I’m currently learning Context API | Google Cloud Platform | Monday.com | Python 
+- 🌱 I’m currently learning Context API | Google Cloud Platform | Monday.com | Python | NodeJS
 
 ## Social medias:
 
