@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-My name's Eduardo Melo 🇧🇷
-
+My name's Eduardo Melo 🤙🏽
 
 ## Works :man_technologist:
 
-Currently, I'm Junior Web Developer in Alest consultoria. Our team is responsible for develop free websites and applications to clients. This is amazing to get more experience and skills.
+Currently, I'm Junior Web Developer at Alest Consultoria. Our team is responsible for develop free websites and applications to clients. This is amazing to get more experience and skills.
 
 ## Skills :brain:
 
