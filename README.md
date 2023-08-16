@@ -1,40 +1,24 @@
-## Hi there 👋
+## Olá, bem-vindo ao meu github!
 
-My name's Eduardo Melo 🤙🏽
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo1020&show_icons=true&theme=radical)](https://github.com/eduardo1020/github-readme-stats)
 
-## Works :man_technologist:
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardo1020&theme=radical&layout=compact)](https://github.com/eduardo1020/github-readme-stats)
 
-Currently, I'm Junior Web Developer at Alest Consultoria. Our team is responsible for develop free websites and applications to clients. This is amazing to get more experience and skills.
+## Linguagens que utilizo no dia a dia
 
-## Skills :brain:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-- :pushpin: HTML5 | CSS3 | JavaScript ES6 | ReactJS | Node JS | Express | Firebase Tools | GCP Tools
-
-## Learning :books:
-
-- 🌱 I’m currently RESTful APIs | Design patterns | Typescript
-
-## Social medias:
-
-<img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-My LinkedIn: https://bit.ly/31wJb6d
-
-
-<br><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-My instagram: https://instagram.com/eduardofilipemelo
-
-
-<!--
-**eduardo1020/eduardo1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contatos
+ 
+<div> 
+  <a href="https://www.instagram.com/eduardofilipemelo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eduardofilipe538@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-filipe-de-melo-cassiano-6b9495143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
